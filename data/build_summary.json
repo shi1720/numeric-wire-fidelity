@@ -1,0 +1,27 @@
+{
+  "files": {
+    "Github_easy": 1943,
+    "Github_hard": 1240,
+    "Github_medium": 1976,
+    "Github_trivial": 444,
+    "Github_ultra": 164,
+    "Glaiveai2K": 1707,
+    "JsonSchemaStore": 492,
+    "Kubernetes": 1064,
+    "Snowplow": 403,
+    "WashingtonPost": 125
+  },
+  "leaves": 34357,
+  "unique_cases": 8207,
+  "palette_size": 89,
+  "errors": [
+    [
+      "Github_hard/o84921.json",
+      "ValueError"
+    ],
+    [
+      "JsonSchemaStore/fossa-yml.v3.schema.json",
+      "ValueError"
+    ]
+  ]
+}

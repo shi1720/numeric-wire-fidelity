@@ -1,0 +1,189 @@
+{
+  "unique_projections": 577,
+  "unique_pairs": 8207,
+  "groups": {
+    "Github_easy": {
+      "leaves": 1355,
+      "tested_leaves": 1355,
+      "changed_leaves": 1274,
+      "hidden_leaves": 1274,
+      "schema_changed_leaves": 0,
+      "pairs": 95596,
+      "changed_pairs": 43107,
+      "hidden_pairs": 39605
+    },
+    "Github_hard": {
+      "leaves": 7934,
+      "tested_leaves": 7934,
+      "changed_leaves": 7460,
+      "hidden_leaves": 7460,
+      "schema_changed_leaves": 1,
+      "pairs": 579580,
+      "changed_pairs": 261988,
+      "hidden_pairs": 240885
+    },
+    "Github_medium": {
+      "leaves": 4624,
+      "tested_leaves": 4624,
+      "changed_leaves": 4415,
+      "hidden_leaves": 4415,
+      "schema_changed_leaves": 5,
+      "pairs": 342509,
+      "changed_pairs": 155041,
+      "hidden_pairs": 142231
+    },
+    "Github_trivial": {
+      "leaves": 287,
+      "tested_leaves": 287,
+      "changed_leaves": 275,
+      "hidden_leaves": 274,
+      "schema_changed_leaves": 0,
+      "pairs": 22922,
+      "changed_pairs": 10502,
+      "hidden_pairs": 9709
+    },
+    "Github_ultra": {
+      "leaves": 4316,
+      "tested_leaves": 4316,
+      "changed_leaves": 4199,
+      "hidden_leaves": 4199,
+      "schema_changed_leaves": 0,
+      "pairs": 311754,
+      "changed_pairs": 140522,
+      "hidden_pairs": 129115
+    },
+    "Glaiveai2K": {
+      "leaves": 5066,
+      "tested_leaves": 5066,
+      "changed_leaves": 5066,
+      "hidden_leaves": 5066,
+      "schema_changed_leaves": 0,
+      "pairs": 445316,
+      "changed_pairs": 204682,
+      "hidden_pairs": 189488
+    },
+    "JsonSchemaStore": {
+      "leaves": 5344,
+      "tested_leaves": 5344,
+      "changed_leaves": 5171,
+      "hidden_leaves": 5171,
+      "schema_changed_leaves": 0,
+      "pairs": 411067,
+      "changed_pairs": 186744,
+      "hidden_pairs": 171920
+    },
+    "Kubernetes": {
+      "leaves": 4341,
+      "tested_leaves": 4341,
+      "changed_leaves": 4341,
+      "hidden_leaves": 4341,
+      "schema_changed_leaves": 0,
+      "pairs": 341502,
+      "changed_pairs": 153519,
+      "hidden_pairs": 140496
+    },
+    "Snowplow": {
+      "leaves": 555,
+      "tested_leaves": 555,
+      "changed_leaves": 330,
+      "hidden_leaves": 330,
+      "schema_changed_leaves": 0,
+      "pairs": 22843,
+      "changed_pairs": 9585,
+      "hidden_pairs": 8741
+    },
+    "WashingtonPost": {
+      "leaves": 535,
+      "tested_leaves": 535,
+      "changed_leaves": 535,
+      "hidden_leaves": 535,
+      "schema_changed_leaves": 0,
+      "pairs": 43177,
+      "changed_pairs": 19600,
+      "hidden_pairs": 18018
+    }
+  },
+  "methods": {
+    "python_native": {
+      "total": 8207,
+      "accepted": 7990,
+      "changed": 479,
+      "original_invalid": 7,
+      "preserved": 7511,
+      "hidden": 472,
+      "rejected": 217
+    },
+    "native": {
+      "total": 8207,
+      "accepted": 8207,
+      "changed": 2600,
+      "original_invalid": 244,
+      "preserved": 5607,
+      "hidden": 2349
+    },
+    "sdk": {
+      "total": 8207,
+      "accepted": 8207,
+      "changed": 2600,
+      "original_invalid": 244,
+      "preserved": 5607,
+      "hidden": 2349
+    },
+    "safe": {
+      "total": 8207,
+      "accepted": 5622,
+      "changed": 479,
+      "original_invalid": 7,
+      "preserved": 5143,
+      "hidden": 472,
+      "rejected": 2585
+    },
+    "payload_guard": {
+      "total": 8207,
+      "accepted": 5607,
+      "changed": 0,
+      "original_invalid": 0,
+      "preserved": 5607,
+      "rejected": 2600
+    },
+    "joint_guard": {
+      "total": 8207,
+      "accepted": 5543,
+      "changed": 0,
+      "original_invalid": 0,
+      "preserved": 5543,
+      "rejected": 2664
+    },
+    "lossless": {
+      "total": 8207,
+      "accepted": 8207,
+      "changed": 0,
+      "original_invalid": 0,
+      "preserved": 8207
+    },
+    "library_guard": {
+      "total": 8207,
+      "accepted": 5242,
+      "changed": 0,
+      "original_invalid": 0,
+      "preserved": 5242,
+      "rejected": 2965
+    }
+  },
+  "changed_schemas_in_test": 2,
+  "changed_unique_pairs": 2600,
+  "hidden_unique_pairs": 2349,
+  "literals": {
+    "files": 9558,
+    "numbers": 38231,
+    "changed": 100,
+    "affected_files": 7
+  },
+  "changed_assertion_literals": 8,
+  "python": "3.9.6",
+  "python_packages": {
+    "jsonschema": "4.25.1",
+    "matplotlib": "3.9.4",
+    "numpy": "1.26.4"
+  }
+}

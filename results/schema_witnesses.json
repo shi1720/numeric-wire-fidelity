@@ -1,0 +1,30 @@
+[
+  {
+    "schema": "{\"type\":\"integer\",\"const\":9007199254740993}",
+    "value": "9007199254740992",
+    "native_accepts": true,
+    "payload_guard_accepts": true,
+    "joint_guard_accepts": false
+  },
+  {
+    "schema": "{\"type\":\"integer\",\"minimum\":9007199254740993}",
+    "value": "9007199254740992",
+    "native_accepts": true,
+    "payload_guard_accepts": true,
+    "joint_guard_accepts": false
+  },
+  {
+    "schema": "{\"type\":\"number\",\"const\":0.10000000000000001}",
+    "value": "0.1",
+    "native_accepts": true,
+    "payload_guard_accepts": true,
+    "joint_guard_accepts": false
+  },
+  {
+    "schema": "{\"type\":\"number\",\"maximum\":0.99999999999999999}",
+    "value": "1",
+    "native_accepts": true,
+    "payload_guard_accepts": true,
+    "joint_guard_accepts": false
+  }
+]

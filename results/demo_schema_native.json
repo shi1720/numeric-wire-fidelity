@@ -1,0 +1,28 @@
+{
+  "result": {
+    "tools": [
+      {
+        "name": "read_record",
+        "description": "Read a local fixture record by identifier",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "record_id": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "record_id"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "execution": {
+          "taskSupport": "forbidden"
+        }
+      }
+    ]
+  },
+  "jsonrpc": "2.0",
+  "id": 2
+}

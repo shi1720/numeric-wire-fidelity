@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+paper/*.log
+paper/*.blg
+paper/*.aux
+paper/*.bbl
+paper/*.out
+data/leaves.json
+results/analysis_log.txt
+results/compile*.log

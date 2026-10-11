@@ -1,0 +1,3304 @@
+[
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": -4,
+    "source": "2147483644",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":3,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483644}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483644"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 3
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": -3,
+    "source": "2147483645",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":4,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483645}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483645"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 4
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": -2,
+    "source": "2147483646",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":5,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483646}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483646"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 5
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": -1,
+    "source": "2147483647",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":6,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483647}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483647"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 6
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": 0,
+    "source": "2147483648",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":7,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483648}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483648"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 7
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": 1,
+    "source": "2147483649",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":8,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483649}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483649"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 8
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": 2,
+    "source": "2147483650",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":9,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483650}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483650"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 9
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": 3,
+    "source": "2147483651",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":10,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483651}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483651"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 10
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 31,
+    "offset": 4,
+    "source": "2147483652",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":11,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483652}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483652"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 11
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": -4,
+    "source": "4503599627370492",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":12,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370492}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370492"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 12
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": -3,
+    "source": "4503599627370493",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":13,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370493}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370493"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 13
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": -2,
+    "source": "4503599627370494",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":14,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370494}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370494"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 14
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": -1,
+    "source": "4503599627370495",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":15,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370495}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370495"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 15
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": 0,
+    "source": "4503599627370496",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":16,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370496}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370496"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 16
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": 1,
+    "source": "4503599627370497",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":17,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370497}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370497"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 17
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": 2,
+    "source": "4503599627370498",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":18,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370498}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370498"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 18
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": 3,
+    "source": "4503599627370499",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":19,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370499}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370499"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 19
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 52,
+    "offset": 4,
+    "source": "4503599627370500",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":20,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370500}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370500"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 20
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": -4,
+    "source": "9007199254740988",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":21,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740988}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 21
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": -3,
+    "source": "9007199254740989",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":22,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740989}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740989"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 22
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": -2,
+    "source": "9007199254740990",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":23,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740990}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740990"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 23
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": -1,
+    "source": "9007199254740991",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":24,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740991}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740991"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 24
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": 0,
+    "source": "9007199254740992",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":25,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740992}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740992"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 25
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": 1,
+    "source": "9007199254740993",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":26,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740993}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740992"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 26
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": 2,
+    "source": "9007199254740994",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":27,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740994}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740994"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 27
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": 3,
+    "source": "9007199254740995",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":28,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740995}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740996"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 28
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 53,
+    "offset": 4,
+    "source": "9007199254740996",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":29,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740996}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740996"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 29
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": -4,
+    "source": "18014398509481980",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":30,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481980}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481980"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 30
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": -3,
+    "source": "18014398509481981",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":31,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481981}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481980"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 31
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": -2,
+    "source": "18014398509481982",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":32,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481982}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481982"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 32
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": -1,
+    "source": "18014398509481983",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":33,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481983}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481984"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 33
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": 0,
+    "source": "18014398509481984",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":34,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481984}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481984"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 34
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": 1,
+    "source": "18014398509481985",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":35,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481985}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481984"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 35
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": 2,
+    "source": "18014398509481986",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":36,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481986}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481984"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 36
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": 3,
+    "source": "18014398509481987",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":37,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481987}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 37
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 54,
+    "offset": 4,
+    "source": "18014398509481988",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":38,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481988}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 38
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": -4,
+    "source": "9223372036854775804",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":39,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775804}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 39
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": -3,
+    "source": "9223372036854775805",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":40,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775805}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 40
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": -2,
+    "source": "9223372036854775806",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":41,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775806}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 41
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": -1,
+    "source": "9223372036854775807",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":42,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775807}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 42
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": 0,
+    "source": "9223372036854775808",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":43,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775808}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 43
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": 1,
+    "source": "9223372036854775809",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":44,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775809}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 44
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": 2,
+    "source": "9223372036854775810",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":45,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775810}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 45
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": 3,
+    "source": "9223372036854775811",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":46,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775811}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 46
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 63,
+    "offset": 4,
+    "source": "9223372036854775812",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":47,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775812}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854776000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 47
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": -4,
+    "source": "18446744073709551612",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":48,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551612}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 48
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": -3,
+    "source": "18446744073709551613",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":49,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551613}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 49
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": -2,
+    "source": "18446744073709551614",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":50,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551614}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 50
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": -1,
+    "source": "18446744073709551615",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":51,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551615}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 51
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": 0,
+    "source": "18446744073709551616",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":52,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551616}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 52
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": 1,
+    "source": "18446744073709551617",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":53,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551617}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 53
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": 2,
+    "source": "18446744073709551618",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":54,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551618}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 54
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": 3,
+    "source": "18446744073709551619",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":55,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551619}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 55
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "native",
+    "power": 64,
+    "offset": 4,
+    "source": "18446744073709551620",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":56,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551620}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709552000"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 56
+    },
+    "rejected": false,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": -4,
+    "source": "2147483644",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":3,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483644}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483644"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 3
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": -3,
+    "source": "2147483645",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":4,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483645}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483645"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 4
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": -2,
+    "source": "2147483646",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":5,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483646}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483646"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 5
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": -1,
+    "source": "2147483647",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":6,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483647}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483647"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 6
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": 0,
+    "source": "2147483648",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":7,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483648}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483648"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 7
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": 1,
+    "source": "2147483649",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":8,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483649}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483649"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 8
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": 2,
+    "source": "2147483650",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":9,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483650}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483650"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 9
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": 3,
+    "source": "2147483651",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":10,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483651}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483651"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 10
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 31,
+    "offset": 4,
+    "source": "2147483652",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":11,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":2147483652}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483652"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 11
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": -4,
+    "source": "4503599627370492",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":12,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370492}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370492"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 12
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": -3,
+    "source": "4503599627370493",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":13,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370493}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370493"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 13
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": -2,
+    "source": "4503599627370494",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":14,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370494}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370494"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 14
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": -1,
+    "source": "4503599627370495",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":15,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370495}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370495"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 15
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": 0,
+    "source": "4503599627370496",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":16,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370496}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370496"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 16
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": 1,
+    "source": "4503599627370497",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":17,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370497}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370497"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 17
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": 2,
+    "source": "4503599627370498",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":18,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370498}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370498"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 18
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": 3,
+    "source": "4503599627370499",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":19,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370499}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370499"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 19
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 52,
+    "offset": 4,
+    "source": "4503599627370500",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":20,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":4503599627370500}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370500"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 20
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": -4,
+    "source": "9007199254740988",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":21,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740988}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 21
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": -3,
+    "source": "9007199254740989",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":22,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740989}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740989"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 22
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": -2,
+    "source": "9007199254740990",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":23,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740990}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740990"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 23
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": -1,
+    "source": "9007199254740991",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":24,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740991}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740991"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 24
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": 0,
+    "source": "9007199254740992",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":25,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740992}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740992"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 25
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": 1,
+    "source": "9007199254740993",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":26,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740993}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 26,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": 2,
+    "source": "9007199254740994",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":27,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740994}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740994"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 27
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": 3,
+    "source": "9007199254740995",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":28,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740995}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 28,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 53,
+    "offset": 4,
+    "source": "9007199254740996",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":29,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9007199254740996}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740996"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 29
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": -4,
+    "source": "18014398509481980",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":30,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481980}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481980"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 30
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": -3,
+    "source": "18014398509481981",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":31,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481981}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 31,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": -2,
+    "source": "18014398509481982",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":32,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481982}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481982"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 32
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": -1,
+    "source": "18014398509481983",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":33,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481983}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 33,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": 0,
+    "source": "18014398509481984",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":34,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481984}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481984"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 34
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": 1,
+    "source": "18014398509481985",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":35,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481985}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 35,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": 2,
+    "source": "18014398509481986",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":36,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481986}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 36,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": 3,
+    "source": "18014398509481987",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":37,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481987}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 37,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 54,
+    "offset": 4,
+    "source": "18014398509481988",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":38,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18014398509481988}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 38
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": -4,
+    "source": "9223372036854775804",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":39,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775804}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 39,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": -3,
+    "source": "9223372036854775805",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":40,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775805}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 40,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": -2,
+    "source": "9223372036854775806",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":41,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775806}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 41,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": -1,
+    "source": "9223372036854775807",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":42,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775807}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 42,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": 0,
+    "source": "9223372036854775808",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":43,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775808}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 43,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": 1,
+    "source": "9223372036854775809",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":44,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775809}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 44,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": 2,
+    "source": "9223372036854775810",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":45,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775810}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 45,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": 3,
+    "source": "9223372036854775811",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":46,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775811}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 46,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 63,
+    "offset": 4,
+    "source": "9223372036854775812",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":47,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":9223372036854775812}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 47,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": -4,
+    "source": "18446744073709551612",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":48,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551612}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 48,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": -3,
+    "source": "18446744073709551613",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":49,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551613}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 49,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": -2,
+    "source": "18446744073709551614",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":50,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551614}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 50,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": -1,
+    "source": "18446744073709551615",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":51,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551615}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 51,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": 0,
+    "source": "18446744073709551616",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":52,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551616}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 52,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": 1,
+    "source": "18446744073709551617",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":53,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551617}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 53,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": 2,
+    "source": "18446744073709551618",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":54,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551618}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 54,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": 3,
+    "source": "18446744073709551619",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":55,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551619}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 55,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "guard",
+    "power": 64,
+    "offset": 4,
+    "source": "18446744073709551620",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":56,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":18446744073709551620}}}",
+    "response": {
+      "jsonrpc": "2.0",
+      "id": 56,
+      "error": {
+        "code": -32602,
+        "message": "Pre-parse fidelity rejection"
+      }
+    },
+    "rejected": true,
+    "correct": false
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": -4,
+    "source": "2147483644",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":3,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483644\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483644"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 3
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": -3,
+    "source": "2147483645",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":4,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483645\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483645"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 4
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": -2,
+    "source": "2147483646",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":5,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483646\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483646"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 5
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": -1,
+    "source": "2147483647",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":6,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483647\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483647"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 6
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": 0,
+    "source": "2147483648",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":7,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483648\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483648"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 7
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": 1,
+    "source": "2147483649",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":8,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483649\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483649"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 8
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": 2,
+    "source": "2147483650",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":9,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483650\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483650"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 9
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": 3,
+    "source": "2147483651",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":10,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483651\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483651"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 10
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 31,
+    "offset": 4,
+    "source": "2147483652",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":11,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"2147483652\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:2147483652"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 11
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": -4,
+    "source": "4503599627370492",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":12,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370492\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370492"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 12
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": -3,
+    "source": "4503599627370493",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":13,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370493\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370493"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 13
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": -2,
+    "source": "4503599627370494",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":14,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370494\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370494"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 14
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": -1,
+    "source": "4503599627370495",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":15,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370495\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370495"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 15
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": 0,
+    "source": "4503599627370496",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":16,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370496\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370496"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 16
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": 1,
+    "source": "4503599627370497",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":17,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370497\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370497"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 17
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": 2,
+    "source": "4503599627370498",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":18,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370498\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370498"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 18
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": 3,
+    "source": "4503599627370499",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":19,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370499\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370499"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 19
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 52,
+    "offset": 4,
+    "source": "4503599627370500",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":20,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"4503599627370500\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:4503599627370500"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 20
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": -4,
+    "source": "9007199254740988",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":21,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740988\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 21
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": -3,
+    "source": "9007199254740989",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":22,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740989\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740989"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 22
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": -2,
+    "source": "9007199254740990",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":23,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740990\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740990"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 23
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": -1,
+    "source": "9007199254740991",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":24,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740991\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740991"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 24
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": 0,
+    "source": "9007199254740992",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":25,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740992\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740992"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 25
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": 1,
+    "source": "9007199254740993",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":26,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740993\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740993"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 26
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": 2,
+    "source": "9007199254740994",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":27,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740994\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740994"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 27
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": 3,
+    "source": "9007199254740995",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":28,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740995\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740995"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 28
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 53,
+    "offset": 4,
+    "source": "9007199254740996",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":29,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9007199254740996\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9007199254740996"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 29
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": -4,
+    "source": "18014398509481980",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":30,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481980\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481980"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 30
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": -3,
+    "source": "18014398509481981",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":31,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481981\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481981"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 31
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": -2,
+    "source": "18014398509481982",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":32,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481982\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481982"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 32
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": -1,
+    "source": "18014398509481983",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":33,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481983\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481983"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 33
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": 0,
+    "source": "18014398509481984",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":34,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481984\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481984"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 34
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": 1,
+    "source": "18014398509481985",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":35,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481985\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481985"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 35
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": 2,
+    "source": "18014398509481986",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":36,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481986\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481986"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 36
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": 3,
+    "source": "18014398509481987",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":37,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481987\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481987"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 37
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 54,
+    "offset": 4,
+    "source": "18014398509481988",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":38,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18014398509481988\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18014398509481988"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 38
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": -4,
+    "source": "9223372036854775804",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":39,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775804\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775804"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 39
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": -3,
+    "source": "9223372036854775805",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":40,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775805\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775805"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 40
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": -2,
+    "source": "9223372036854775806",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":41,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775806\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775806"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 41
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": -1,
+    "source": "9223372036854775807",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":42,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775807\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775807"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 42
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": 0,
+    "source": "9223372036854775808",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":43,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775808\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775808"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 43
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": 1,
+    "source": "9223372036854775809",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":44,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775809\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775809"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 44
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": 2,
+    "source": "9223372036854775810",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":45,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775810\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775810"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 45
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": 3,
+    "source": "9223372036854775811",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":46,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775811\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775811"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 46
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 63,
+    "offset": 4,
+    "source": "9223372036854775812",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":47,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"9223372036854775812\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:9223372036854775812"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 47
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": -4,
+    "source": "18446744073709551612",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":48,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551612\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551612"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 48
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": -3,
+    "source": "18446744073709551613",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":49,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551613\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551613"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 49
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": -2,
+    "source": "18446744073709551614",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":50,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551614\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551614"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 50
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": -1,
+    "source": "18446744073709551615",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":51,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551615\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551615"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 51
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": 0,
+    "source": "18446744073709551616",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":52,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551616\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551616"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 52
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": 1,
+    "source": "18446744073709551617",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":53,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551617\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551617"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 53
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": 2,
+    "source": "18446744073709551618",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":54,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551618\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551618"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 54
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": 3,
+    "source": "18446744073709551619",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":55,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551619\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551619"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 55
+    },
+    "rejected": false,
+    "correct": true
+  },
+  {
+    "mode": "string",
+    "power": 64,
+    "offset": 4,
+    "source": "18446744073709551620",
+    "request": "{\"jsonrpc\":\"2.0\",\"id\":56,\"method\":\"tools/call\",\"params\":{\"name\":\"read_record\",\"arguments\":{\"record_id\":\"18446744073709551620\"}}}",
+    "response": {
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "record:18446744073709551620"
+          }
+        ]
+      },
+      "jsonrpc": "2.0",
+      "id": 56
+    },
+    "rejected": false,
+    "correct": true
+  }
+]

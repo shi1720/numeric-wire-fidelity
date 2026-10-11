@@ -1,0 +1,618 @@
+{
+  "files": 9558,
+  "numbers": 38231,
+  "changed": 100,
+  "affected_files": 7,
+  "failures": [
+    {
+      "file": "Github_hard/o84921.json",
+      "error": "Duplicate key 'image' encountered at position 6968"
+    },
+    {
+      "file": "JsonSchemaStore/fossa-yml.v3.schema.json",
+      "error": "Duplicate key 'policy' encountered at position 1775"
+    }
+  ],
+  "rows": [
+    {
+      "file": "Github_hard/o57801.json",
+      "path": "/definitions/RateBottlePayload/example/rating",
+      "from": "8279792463320557696",
+      "to": "8279792463320558000"
+    },
+    {
+      "file": "Github_hard/o57801.json",
+      "path": "/definitions/RateBottlePayload/properties/rating/example",
+      "from": "8279792463320557696",
+      "to": "8279792463320558000"
+    },
+    {
+      "file": "Github_hard/o90912.json",
+      "path": "/definitions/IntegerValue/properties/value/minimum",
+      "from": "-9223372036854775808",
+      "to": "-9223372036854776000"
+    },
+    {
+      "file": "Github_hard/o90912.json",
+      "path": "/definitions/IntegerValue/properties/value/maximum",
+      "from": "9223372036854775807",
+      "to": "9223372036854776000"
+    },
+    {
+      "file": "Github_medium/o83275.json",
+      "path": "/properties/file_count/maximum",
+      "from": "18446744073709551615",
+      "to": "18446744073709552000"
+    },
+    {
+      "file": "Github_medium/o83275.json",
+      "path": "/properties/hard_threshold/maximum",
+      "from": "18446744073709551615",
+      "to": "18446744073709552000"
+    },
+    {
+      "file": "Github_medium/o83275.json",
+      "path": "/properties/logical_usage/maximum",
+      "from": "18446744073709551615",
+      "to": "18446744073709552000"
+    },
+    {
+      "file": "Github_medium/o83275.json",
+      "path": "/properties/physical_usage/maximum",
+      "from": "18446744073709551615",
+      "to": "18446744073709552000"
+    },
+    {
+      "file": "Github_medium/o83275.json",
+      "path": "/properties/soft_threshold/maximum",
+      "from": "18446744073709551615",
+      "to": "18446744073709552000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/example/id",
+      "from": "2219768067462722682",
+      "to": "2219768067462722600"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/example/presentations/0/id",
+      "from": "3099350175074608703",
+      "to": "3099350175074608600"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/example/presentations/0/speaker/id",
+      "from": "5393156423666760956",
+      "to": "5393156423666761000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/example/presentations/1/id",
+      "from": "5493573819062889534",
+      "to": "5493573819062889000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/example/presentations/1/speaker/id",
+      "from": "549950183797065919",
+      "to": "549950183797065900"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/example/speakers/0/id",
+      "from": "4574375130798339995",
+      "to": "4574375130798340000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/id/example",
+      "from": "8151004217844433890",
+      "to": "8151004217844434000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/example/0/id",
+      "from": "8987120857796313680",
+      "to": "8987120857796314000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/example/0/speaker/id",
+      "from": "812480929769847995",
+      "to": "812480929769847900"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/example/1/id",
+      "from": "8212111820326801850",
+      "to": "8212111820326801000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/example/1/speaker/id",
+      "from": "4768200440712950512",
+      "to": "4768200440712951000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/items/example/id",
+      "from": "8959094650469010398",
+      "to": "8959094650469010000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/items/example/speaker/id",
+      "from": "3446227051356385407",
+      "to": "3446227051356385300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/items/properties/id/example",
+      "from": "8211863283135363273",
+      "to": "8211863283135363000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/items/properties/speaker/example/id",
+      "from": "3360909363941664046",
+      "to": "3360909363941664300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/presentations/items/properties/speaker/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/speakers/example/0/id",
+      "from": "3183414517644362271",
+      "to": "3183414517644362000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/speakers/example/1/id",
+      "from": "3008284526923858790",
+      "to": "3008284526923859000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/speakers/example/2/id",
+      "from": "6587664006123639049",
+      "to": "6587664006123639000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/speakers/items/example/id",
+      "from": "7759144187772925207",
+      "to": "7759144187772925000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Event/properties/speakers/items/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Presentation/example/id",
+      "from": "1942219196064683786",
+      "to": "1942219196064683800"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Presentation/example/speaker/id",
+      "from": "8715654185554430465",
+      "to": "8715654185554431000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Presentation/properties/id/example",
+      "from": "8211863283135363273",
+      "to": "8211863283135363000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Presentation/properties/speaker/example/id",
+      "from": "3360909363941664046",
+      "to": "3360909363941664300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Presentation/properties/speaker/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Series/example/id",
+      "from": "7133943798714918050",
+      "to": "7133943798714918000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Series/properties/id/example",
+      "from": "5854521042413354769",
+      "to": "5854521042413355000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Speaker/example/id",
+      "from": "5845206586883501056",
+      "to": "5845206586883501000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Speaker/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Tenant/example/id",
+      "from": "1848986484678543591",
+      "to": "1848986484678543600"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/Tenant/properties/id/example",
+      "from": "1999400714536249347",
+      "to": "1999400714536249300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/User/example/id",
+      "from": "8228687825420379810",
+      "to": "8228687825420380000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/User/example/tenant_id",
+      "from": "3020897881766934989",
+      "to": "3020897881766935000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/User/properties/id/example",
+      "from": "8769875072716209837",
+      "to": "8769875072716210000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/User/properties/tenant_id/example",
+      "from": "7069450719703720201",
+      "to": "7069450719703720000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/adminuser/example/id",
+      "from": "8228687825420379810",
+      "to": "8228687825420380000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/adminuser/example/tenant_id",
+      "from": "3020897881766934989",
+      "to": "3020897881766935000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/adminuser/properties/id/example",
+      "from": "8769875072716209837",
+      "to": "8769875072716210000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/adminuser/properties/tenant_id/example",
+      "from": "7069450719703720201",
+      "to": "7069450719703720000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/example/expires_in",
+      "from": "4869192690920850514",
+      "to": "4869192690920850000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/example/tenant/id",
+      "from": "5728362918364472433",
+      "to": "5728362918364472000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/example/user/id",
+      "from": "7831165214039818002",
+      "to": "7831165214039818000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/example/user/tenant_id",
+      "from": "6244484567252341207",
+      "to": "6244484567252341000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/expires_in/example",
+      "from": "1423874802512420957",
+      "to": "1423874802512420900"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/tenant/example/id",
+      "from": "3969518700682667638",
+      "to": "3969518700682667500"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/tenant/properties/id/example",
+      "from": "1999400714536249347",
+      "to": "1999400714536249300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/user/example/id",
+      "from": "7180736786154332961",
+      "to": "7180736786154333000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/user/example/tenant_id",
+      "from": "8701398505595027364",
+      "to": "8701398505595027000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/user/properties/id/example",
+      "from": "8769875072716209837",
+      "to": "8769875072716210000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/auth/properties/user/properties/tenant_id/example",
+      "from": "7069450719703720201",
+      "to": "7069450719703720000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/example/id",
+      "from": "2219768067462722682",
+      "to": "2219768067462722600"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/example/presentations/0/id",
+      "from": "3099350175074608703",
+      "to": "3099350175074608600"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/example/presentations/0/speaker/id",
+      "from": "5393156423666760956",
+      "to": "5393156423666761000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/example/presentations/1/id",
+      "from": "5493573819062889534",
+      "to": "5493573819062889000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/example/presentations/1/speaker/id",
+      "from": "549950183797065919",
+      "to": "549950183797065900"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/example/speakers/0/id",
+      "from": "4574375130798339995",
+      "to": "4574375130798340000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/id/example",
+      "from": "8151004217844433890",
+      "to": "8151004217844434000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/example/0/id",
+      "from": "8987120857796313680",
+      "to": "8987120857796314000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/example/0/speaker/id",
+      "from": "812480929769847995",
+      "to": "812480929769847900"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/example/1/id",
+      "from": "8212111820326801850",
+      "to": "8212111820326801000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/example/1/speaker/id",
+      "from": "4768200440712950512",
+      "to": "4768200440712951000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/items/example/id",
+      "from": "8959094650469010398",
+      "to": "8959094650469010000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/items/example/speaker/id",
+      "from": "3446227051356385407",
+      "to": "3446227051356385300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/items/properties/id/example",
+      "from": "8211863283135363273",
+      "to": "8211863283135363000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/items/properties/speaker/example/id",
+      "from": "3360909363941664046",
+      "to": "3360909363941664300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/presentations/items/properties/speaker/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/speakers/example/0/id",
+      "from": "3183414517644362271",
+      "to": "3183414517644362000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/speakers/example/1/id",
+      "from": "3008284526923858790",
+      "to": "3008284526923859000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/speakers/example/2/id",
+      "from": "6587664006123639049",
+      "to": "6587664006123639000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/speakers/items/example/id",
+      "from": "7759144187772925207",
+      "to": "7759144187772925000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/event/properties/speakers/items/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/presentation/example/id",
+      "from": "1942219196064683786",
+      "to": "1942219196064683800"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/presentation/example/speaker/id",
+      "from": "8715654185554430465",
+      "to": "8715654185554431000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/presentation/properties/id/example",
+      "from": "8211863283135363273",
+      "to": "8211863283135363000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/presentation/properties/speaker/example/id",
+      "from": "3360909363941664046",
+      "to": "3360909363941664300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/presentation/properties/speaker/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/series/example/id",
+      "from": "7133943798714918050",
+      "to": "7133943798714918000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/series/properties/id/example",
+      "from": "5854521042413354769",
+      "to": "5854521042413355000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/speaker/example/id",
+      "from": "5845206586883501056",
+      "to": "5845206586883501000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/speaker/properties/id/example",
+      "from": "3234056067242143871",
+      "to": "3234056067242144000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/tenant/example/id",
+      "from": "1848986484678543591",
+      "to": "1848986484678543600"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/tenant/properties/id/example",
+      "from": "1999400714536249347",
+      "to": "1999400714536249300"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/user/example/id",
+      "from": "8228687825420379810",
+      "to": "8228687825420380000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/user/example/tenant_id",
+      "from": "3020897881766934989",
+      "to": "3020897881766935000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/user/properties/id/example",
+      "from": "8769875072716209837",
+      "to": "8769875072716210000"
+    },
+    {
+      "file": "Github_ultra/o44225.json",
+      "path": "/definitions/user/properties/tenant_id/example",
+      "from": "7069450719703720201",
+      "to": "7069450719703720000"
+    },
+    {
+      "file": "JsonSchemaStore/datahub_ingestion_schema.json",
+      "path": "/definitions/redash_config/properties/api_page_limit/default",
+      "from": "9223372036854775807",
+      "to": "9223372036854776000"
+    },
+    {
+      "file": "JsonSchemaStore/hazelcast-config-5.3.json",
+      "path": "/definitions/Jet/properties/instance/properties/max-processor-accumulated-records/default",
+      "from": "9223372036854775807",
+      "to": "9223372036854776000"
+    },
+    {
+      "file": "JsonSchemaStore/hazelcast-config-5.3.json",
+      "path": "/definitions/Jet/properties/max-processor-accumulated-records/default",
+      "from": "9223372036854775807",
+      "to": "9223372036854776000"
+    },
+    {
+      "file": "JsonSchemaStore/venvironment-basic-schema.json",
+      "path": "/definitions/1ce7/full/properties/simulation-step-in-micro-sec/anyOf/0/maximum",
+      "from": "9223372036854775",
+      "to": "9223372036854776"
+    }
+  ]
+}
